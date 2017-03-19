@@ -1,0 +1,6 @@
+--index-url http://mirrors.aliyun.com/pypi/simple/
+ptyprocess==0.5.1
+pexpect==4.2.1
+MySQL-python==1.2.5
+17monip== 0.2.7
+scapy==2.3.3
